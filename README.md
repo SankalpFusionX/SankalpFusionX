@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi!! 👋
+This is my LinkedIn Profile Badge,
+<br>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-View%20Profile-blue?logo=linkedin)](https://www.linkedin.com/in/growingdev-sankalp)
+<br>
+Just click on it and visit to my LinkedIn Profile.
 <!--
 **SankalpFusionX/SankalpFusionX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
