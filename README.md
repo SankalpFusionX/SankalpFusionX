@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/growingdev-sumit-kori)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-161717?style=plastic&logo=github&logoColor=black)](https://github.com/SankalpFusionX)
-[![Email](https://img.shields.io/badge/Email-Sankalp-red?style=plastic&logo=gmail)](mailto:sumitkrr78@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Sankalp-red?style=plastic&logo=gmail)](mailto:https://mail.google.com/mail/u/0/#inbox)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=plastic&logo=whatsapp)](https://wa.me/7827394787)
 
 
