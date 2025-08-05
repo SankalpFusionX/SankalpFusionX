@@ -1,20 +1,42 @@
-## Hi!! 👋
-This is my LinkedIn Profile Badge,
+# 👋 Hello and Welcome!, I'm SankalpFusionX
+
+🎓 BCA Graduate | 🌱 Learning Full Stack Development  
+💻 HTML & CSS enthusiast, building my first real-world projects  
+🌍 I love creating clean and user-friendly web experiences
 <br>
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-View%20Profile-blue?logo=linkedin)](https://www.linkedin.com/in/growingdev-sankalp)
-<br>
-Just click on it and visit to my LinkedIn Profile.
+[LinkedIn](https://www.linkedin.com/in/growingdev-sumit-kori) | [Gmail](mailto:sumitkrr78@gmail.com)
+
+---
+📫 **Let’s Connect**:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/growingdev-sumit-kori)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-161717?style=plastic&logo=github&logoColor=black)](https://github.com/SankalpFusionX)
+[![Email](https://img.shields.io/badge/Email-Sankalp-red?style=plastic&logo=gmail)](mailto:sumitkrr78@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=plastic&logo=whatsapp)](https://wa.me/7827394787)
+
+
+
+
+
+
+
+
 <!--
-**SankalpFusionX/SankalpFusionX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://www.linkedin.com/in/growingdev-sumit-kori" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=plastic&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/SankalpFusionX" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=plastic&logo=github&logoColor=black" alt="GitHub Badge"/>
+  </a>
+  <a href="mailto:sumitkrr78@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=plastic&logo=gmail" alt="Email Badge"/>
+  </a>
+  <a href="https://wa.me/7827394787" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=plastic&logo=whatsapp" alt="WhatsApp Badge"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
